@@ -1,0 +1,8 @@
+
+.nvb, body{
+  background-image: url("img/background/recordplayer.jpg");
+  background-attachment: fixed;
+}
+section{
+  margin-top: 20vh;
+}
